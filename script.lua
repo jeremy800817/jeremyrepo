@@ -1,4 +1,4 @@
-    local results={}
+    local results1={}
     local theKey=ARGV[1]..":"
     local theField=ARGV[2]
     local queryMapKey=theKey.."queryMap"
