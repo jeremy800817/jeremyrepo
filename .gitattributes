@@ -1,1 +1,2 @@
 script.lua text=auto eol=lf
+*.lua text=auto eol=lf
