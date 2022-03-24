@@ -1,7 +1,8 @@
 <?php
 	
-	echo'1';
-	echo'test';
-	echo 'feature';
+	echo'a';
+	echo'b';
+	echo'c';
+	echo'd';
 	
 	?>
