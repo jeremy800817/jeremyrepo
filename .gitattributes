@@ -1,2 +1,2 @@
-script.lua text=auto eol=lf
-*.lua text=auto eol=lf
+*.js text=auto eol=lf
+*.php text=auto eol=lf
